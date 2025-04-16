@@ -37,7 +37,44 @@
 ---
 
 ### **Revisar conceitos de avaliação e perícia de software**  
-  → Ex: O que é perícia técnica em software? Que normas ou guias utilizar (ex: ISO/IEC 25010)?
+### Tópicos para Aprofundamento na Avaliação e Perícia de Software
+
+- **Modelos de Qualidade de Software**
+  - ISO/IEC 9126
+  - ISO/IEC 25010
+  - CMMI (Capability Maturity Model Integration)
+
+- **Métodos de Avaliação de Usabilidade**
+  - Heurísticas de Usabilidade
+  - Testes de Usuário (Think-Aloud, Testes A/B)
+
+- **Avaliação de Segurança de Software**
+  - Vulnerabilidades e Segurança de Aplicações Web (OWASP Top 10)
+  - Secure Coding Practices
+  - Testes de Penetração
+
+- **Avaliação de Desempenho e Escalabilidade**
+  - Testes de Carga e Benchmarking
+  - Identificação de Gargalos de Desempenho
+
+- **Avaliação de Conformidade e Padrões de Qualidade**
+  - Conformidade com Regulamentos (como GDPR)
+  - Acessibilidade Web (WCAG)
+
+- **Ferramentas de Análise de Código**
+  - Análise Estática de Código (SonarQube, Codacy)
+  - Identificação de Bugs e Más Práticas
+
+- **Custo e Manutenção do Software**
+  - Custo Total de Propriedade (TCO)
+  - Esforço de Manutenção e Sustentabilidade
+
+- **Métodos de Teste de Software**
+  - Testes Unitários
+  - Testes de Integração
+  - Testes de Regressão
+  - Testes de Aceitação
+
 
 ---
 
